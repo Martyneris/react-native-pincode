@@ -77,7 +77,7 @@ export declare type IProps = {
     stylePinCodeTextButtonCircle?: StyleProp<TextStyle>;
     stylePinCodeTextSubtitle?: StyleProp<TextStyle>;
     stylePinCodeTextTitle?: StyleProp<TextStyle>;
-    stylePinCodeViewTitle?: StyleProp<TextStyle>;
+    stylePinCodeViewTitle?: StyleProp<ViewStyle>;
     subtitleChoose?: string;
     subtitleComponent?: any;
     subtitleConfirm?: string;
